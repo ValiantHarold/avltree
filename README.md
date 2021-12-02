@@ -2,7 +2,7 @@
 
 In computer science, an AVL tree named after inventors Adelson-Velsky and Landis is a self-balancing binary search tree. I wanted to explore how they worked and how I could make one myself.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=VSYnOUNxEyw)
 
 # Development Environment
 
